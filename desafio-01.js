@@ -22,13 +22,13 @@ function reverseNumberSum(limit) {
         const sum = parseInt(inverseNewN) + n;
         if (isOdd(sum.toString())) {
           count += 1;
-          console.log(`${n} + ${inverseNewN}: ${sum}`);
+          console.log(`Número: ${n} - Reverso: ${inverseNewN} - Soma: ${sum}`);
         };
       };
     }
     n += 1;
   }
-  console.log('Quantidade: ' + count);
+  console.log(`Existem ${count} números reversíveis abaixo de ${limit}`);
 }
 
 reverseNumberSum(1000000);

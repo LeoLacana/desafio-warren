@@ -27,4 +27,10 @@ Dado um vetor de números e um número n. Determine a soma com o menor número d
 
 ## Como Rodar os Desafios
 
- - 
+  ```bash
+node desafio-01.js
+
+node desafio-02.js
+
+node desafio-03.js
+```
