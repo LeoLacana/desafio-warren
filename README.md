@@ -27,10 +27,22 @@ Dado um vetor de números e um número n. Determine a soma com o menor número d
 
 ## Como Rodar os Desafios
 
+Após executar o comando para rodar o arquivo do desafio, deve-se informar o(s) parâmetro(s) do argoritmo.
+
   ```bash
 node desafio-01.js
+- Após isso deve-se digitar um número inteiro positivo.
+Exemplo: 1000
+```
 
+  ```bash
 node desafio-02.js
+- Após isso deve-se digitar um número inteiro positivo.
+Exemplo: 3
+- Depois uma lista de inteiros separados por vírgulo (obs.: não colocar espaços entre os mesmos).
+Exemplo: -1,0,2,3,4
+```
 
+  ```bash
 node desafio-03.js
 ```
