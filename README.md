@@ -31,7 +31,6 @@ Dado um vetor de números e um número n. Determine a soma com o menor número d
 
   ```bash
 git clone git@github.com:LeoLacana/desafio-warren.git
-
 ```
 
 Após executar o comando para rodar o arquivo do desafio, deve-se informar o(s) parâmetro(s) do argoritmo.
