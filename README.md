@@ -31,18 +31,27 @@ Após executar o comando para rodar o arquivo do desafio, deve-se informar o(s) 
 
   ```bash
 node desafio-01.js
+
 - Após isso deve-se digitar um número inteiro positivo.
 Exemplo: 1000
 ```
 
   ```bash
 node desafio-02.js
+
 - Após isso deve-se digitar um número inteiro positivo.
 Exemplo: 3
-- Depois uma lista de inteiros separados por vírgulo (obs.: não colocar espaços entre os mesmos).
+
+- Depois deve-se digitar uma lista de inteiros separados por vírgulo (obs.: não colocar espaços entre os mesmos).
 Exemplo: -1,0,2,3,4
 ```
 
   ```bash
 node desafio-03.js
+
+- Após isso deve-se digitar um número inteiro positivo.
+Exemplo: 10
+
+- Depois deve-se digitar uma lista de inteiros positivos separados por vírgulo (obs.: não colocar espaços entre os mesmos).
+Exemplo: 2,3,4
 ```
